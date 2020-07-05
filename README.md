@@ -1,18 +1,22 @@
 # Taz-Crack
 
-Tools ini adalah tools dari team TazManianDevil Cyber Team, yang berfungsi untuk melaukan encrypt dan decrypt password! 
+Taz-Crack adalah tools team TazManianDevil Cyber Team, untuk crack password dengan jenis hash:
 
-# Installation
+1. Hexa
+2. Binary
+3. Base 64
+4. Base 32
+5. Md 5
+
+# installation
 
 $ apt install bash
 $ apt install git
 $ git clone https://github.com/tazmaniandevilcyberteam/Taz-Crack
-$ cd taz-Crack
+$ cd Taz-Crack
 $ bash Taz-Crack.sh
 $ i
+NB; i adalah command untuk install dependencies dari dalam directory Taz-Crack
 
-NB: i adalah opsi untuk installasi dependencies
-Untuk usage, lakukan hal yang sama, dan selamat bersenang senang :)
-
-Code By: DemonX
+Coded By: DemonX
 copyleft@2020
