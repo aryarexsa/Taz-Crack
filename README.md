@@ -8,7 +8,7 @@ Taz-Crack adalah tools team TazManianDevil Cyber Team, untuk crack password deng
 4. Base 32
 5. Md 5
 
-# installation
+# Usage
 
 $ apt install bash
 
