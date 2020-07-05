@@ -10,12 +10,12 @@ Taz-Crack adalah tools team TazManianDevil Cyber Team, untuk crack password deng
 
 # installation
 
-$ apt install bash
-$ apt install git
-$ git clone https://github.com/tazmaniandevilcyberteam/Taz-Crack
-$ cd Taz-Crack
-$ bash Taz-Crack.sh
-$ i
+1. apt install bash
+2. apt install git
+3. git clone https://github.com/tazmaniandevilcyberteam/Taz-Crack
+4, cd Taz-Crack
+5. bash Taz-Crack.sh
+6. i
 NB; i adalah command untuk install dependencies dari dalam directory Taz-Crack
 
 Coded By: DemonX
