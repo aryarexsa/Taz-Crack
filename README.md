@@ -16,7 +16,8 @@ Taz-Crack adalah tools team TazManianDevil Cyber Team, untuk crack password deng
 4, cd Taz-Crack
 5. bash Taz-Crack.sh
 6. i
-7. NB: i adalah command untuk install dependencies dari dalam directory Taz-Crack
+
+NB: i adalah command untuk install dependencies yang berada dalam directory Taz-Crack
 
 Coded By: DemonX
 
