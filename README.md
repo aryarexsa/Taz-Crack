@@ -15,3 +15,4 @@ NB: i adalah opsi untuk installasi dependencies
 Untuk usage, lakukan hal yang sama, dan selamat bersenang senang :)
 
 Code By: DemonX
+copyleft@2020
